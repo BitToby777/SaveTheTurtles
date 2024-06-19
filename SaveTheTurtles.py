@@ -49,8 +49,8 @@ t.color('red')
 t.write('Enter to Start', font=('Times New Roman', 35, 'bold'), align='center')
 t.goto(0, -200)
 t.write('Or S to Skip', font=('Times New Roman', 35, 'bold'), align='center')
-dumb = input("")
-if (dumb != "S"):
+skip = input("")
+if (skip != "S"):
 
   turtle.bgcolor("#ADD8E6")
   t.clear()
