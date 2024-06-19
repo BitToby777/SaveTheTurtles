@@ -1,8 +1,6 @@
 """
 Toby Feb 27 2024
-This is an adventure game that allows you to choose options for a turtle, while being coded using Turtle.
-This is the Template Repl for Python with Turtle.
-
+This is an adventure game that allows you to control a turtle. This program is coded using Python Turtle.
 Python with Turtle lets you make graphics easily in Python.
 
 Check out the official docs here: https://docs.python.org/3/library/turtle.html
